@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bmi-gen/static/css/main.8e4b4b16.css",
+    "main.js": "/bmi-gen/static/js/main.6855d6e8.js",
+    "static/media/bg2.jpg": "/bmi-gen/static/media/bg2.2936dcd6ec6f196f57a8.jpg",
+    "index.html": "/bmi-gen/index.html",
+    "main.8e4b4b16.css.map": "/bmi-gen/static/css/main.8e4b4b16.css.map",
+    "main.6855d6e8.js.map": "/bmi-gen/static/js/main.6855d6e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4b4b16.css",
+    "static/js/main.6855d6e8.js"
+  ]
+}
